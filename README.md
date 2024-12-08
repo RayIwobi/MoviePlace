@@ -1,7 +1,8 @@
 **MOVIEPLACE MovieApp**
 
 
-![image](https://github.com/user-attachments/assets/bf41bd6a-a9f9-4300-94ea-b978e110280e)
+![image001](https://github.com/user-attachments/assets/83f6b73c-2a50-49f1-91a6-bb36c9cf9f20)
+
 
 
 MoviePlace App
