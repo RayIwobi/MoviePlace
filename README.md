@@ -42,8 +42,8 @@ Setup Instructions
 
 Clone the Repository
 
-git clone https://github.com/your-username/movie-finder-app.git
-cd movie-finder-app
+git clone https://github.com/RayIwobi/MoviePlace.git
+cd movieapp
 
 Install Dependencies
 
